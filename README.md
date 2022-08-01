@@ -22,6 +22,9 @@ The link to the GitHub repository with files for this workshop can be found here
 
 When you enter the link and click 'Clone', all files in the repository will be cloned into Noteable. You will see a progress bar like this: 
 
+<img width="1160" alt="image" src="https://user-images.githubusercontent.com/62135461/182075647-1341adbb-9e52-4b5d-b64b-52fe036aeef4.png">
+
+
 Once imported, you will see the folder in Noteable and you can open the first file for the workshop, titled: 
 
 ISG Summer Intern Workshop - Covid 19 Data & Free Fringe Venues 2022.ipynb
