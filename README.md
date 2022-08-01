@@ -14,7 +14,7 @@ You can download and upload the files on this course, or alternatively you can c
 
 Paste the URL and click Clone
 
-https://noteable.edina.ac.uk/moodle/pluginfile.php/597/course/section/79/Screenshot%202022-07-31%20at%2023.43.36.png![image](https://user-images.githubusercontent.com/62135461/182075475-ac968332-0fec-40fe-b1cf-deca095dd5b8.png)
+[image](https://user-images.githubusercontent.com/62135461/182075475-ac968332-0fec-40fe-b1cf-deca095dd5b8.png)
 
 
 The link to the GitHub repository with files for this workshop can be found here: https://github.com/jstix/PythonLabISGSummerInterns 
