@@ -33,15 +33,6 @@ Once imported, you will see the folder in Noteable and you can open the first fi
 
 ISG Summer Intern Workshop - Covid 19 Data & Free Fringe Venues 2022.ipynb
 
-How to access these Notebooks on Noteable:
-
-Click on the +GitRepo button
-Paste into the Git Repository URL input the url from the web browser (in this case https://github.com/edina/Notebook-exemplars-for-GLOW-users)
-Change the branch to main
-click on Clone
-All Coding Activities in this repository will now be available to you on Noteable
-Available External Resources for Python, R and Noteable
-
 <b>References for Python</b>
 
 • Callysto Lesson Plans, including lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources: o Teacher lesson plan (how to introduce and teach the problem) o Teacher Jupyter notebook (including instructions) o Student Jupyter notebook Link to resource: https://www.callysto.ca/lesson-plans/
