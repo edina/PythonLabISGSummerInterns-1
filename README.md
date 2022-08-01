@@ -16,7 +16,6 @@ Paste the URL and click Clone
 
 The link to the GitHub repository with files for this workshop can be found here: https://github.com/jstix/PythonLabISGSummerInterns 
 
-
 When you enter the link and click 'Clone', all files in the repository will be cloned into Noteable. You will see a progress bar like this: 
 
 Once imported, you will see the folder in Noteable and you can open the first file for the workshop, titled: 
@@ -32,7 +31,7 @@ click on Clone
 All Coding Activities in this repository will now be available to you on Noteable
 Available External Resources for Python, R and Noteable
 
-References for Python
+<b>References for Python</b>
 
 • Callysto Lesson Plans, including lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources: o Teacher lesson plan (how to introduce and teach the problem) o Teacher Jupyter notebook (including instructions) o Student Jupyter notebook Link to resource: https://www.callysto.ca/lesson-plans/
 
