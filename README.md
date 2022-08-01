@@ -20,9 +20,13 @@ Paste the URL and click Clone
 
 The link to the GitHub repository with files for this workshop can be found here: https://github.com/jstix/PythonLabISGSummerInterns 
 
+<img width="1160" alt="image" src="https://user-images.githubusercontent.com/62135461/182075647-1341adbb-9e52-4b5d-b64b-52fe036aeef4.png">
+
 When you enter the link and click 'Clone', all files in the repository will be cloned into Noteable. You will see a progress bar like this: 
 
-<img width="1160" alt="image" src="https://user-images.githubusercontent.com/62135461/182075647-1341adbb-9e52-4b5d-b64b-52fe036aeef4.png">
+
+<img width="1160" alt="image" src="https://user-images.githubusercontent.com/62135461/182075732-d83fcc09-076c-4ee2-b959-6c151f06b45e.png">
+
 
 
 Once imported, you will see the folder in Noteable and you can open the first file for the workshop, titled: 
