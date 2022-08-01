@@ -14,7 +14,8 @@ You can download and upload the files on this course, or alternatively you can c
 
 Paste the URL and click Clone
 
-[image](https://user-images.githubusercontent.com/62135461/182075475-ac968332-0fec-40fe-b1cf-deca095dd5b8.png)
+[image](![182075475-ac968332-0fec-40fe-b1cf-deca095dd5b8](https://user-images.githubusercontent.com/62135461/182075579-f602883d-90c3-4a1a-b206-5659c74016e5.png)
+
 
 
 The link to the GitHub repository with files for this workshop can be found here: https://github.com/jstix/PythonLabISGSummerInterns 
