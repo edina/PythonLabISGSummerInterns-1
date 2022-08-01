@@ -10,6 +10,19 @@ This repository is for coding activities developed in Jupyter notebooks and RStu
 You can use this content to learn about Python and gain an understanding of some core computing concepts, such as accessing coding environments, inputting code, marking down coding exercises and formatting activities, and building your own scripts and Python code to carry out mathemtical, visual and interactive tasks. 
 This will include finding your favourite Free Fringe Venues for summer 2022! 
 
+You can download and upload the files on this course, or alternatively you can clone them using the +GitClone button once you have chosen a notebook server in Noteable, as seen below: 
+
+Paste the URL and click Clone
+
+The link to the GitHub repository with files for this workshop can be found here: https://github.com/jstix/PythonLabISGSummerInterns 
+
+
+When you enter the link and click 'Clone', all files in the repository will be cloned into Noteable. You will see a progress bar like this: 
+
+Once imported, you will see the folder in Noteable and you can open the first file for the workshop, titled: 
+
+ISG Summer Intern Workshop - Covid 19 Data & Free Fringe Venues 2022.ipynb
+
 How to access these Notebooks on Noteable:
 
 Click on the +GitRepo button
