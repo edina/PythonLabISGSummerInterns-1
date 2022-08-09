@@ -28,7 +28,7 @@ When you enter the link and click 'Clone', all files in the repository will be c
 <img width="1165" alt="Screenshot 2022-07-31 at 23 53 44" src="https://user-images.githubusercontent.com/62135461/182525708-5c33c89b-bbe2-47e2-84e8-24e345d84652.png">
 
 
-Once imported, you will see the folder in Noteable and you can open the first file for the workshop, titled: 
+Once imported, you will see the folder in Noteable and you can open the first file for the workshop that you will work on with the hosts, titled: 
 
 ISG Summer Intern Workshop - Covid 19 Data & Free Fringe Venues 2022.ipynb
 
